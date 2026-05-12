@@ -1,4 +1,4 @@
-# CarreiraAcademica
+# Carreira Academica
 Projeto feitos para mostrar minha carreira
 
 DOCS : https://docs.google.com/document/d/1W0lCgDksrt2Z-ZymsW29PCP5tcH4xF5g2qwt_UOf8Dw/edit?usp=sharing
